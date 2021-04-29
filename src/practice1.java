@@ -8,6 +8,7 @@ public class practice1 {
 		int number = sc.nextInt();
 		int total = number*1;
 		System.out.println("number is:"+total);
+		system.out.println("changes made on 29th");
   
 	}
 
